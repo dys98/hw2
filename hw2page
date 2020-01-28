@@ -1,0 +1,36 @@
+<!-- Daisy Sanchez -->
+<!-- Assignment 2: HTML Practice -->
+<!-- Comp 20 -->
+<!-- 28 January 2020 -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+	    <title>Assignment 2: HTML Practice</title>
+    </head>
+    <body>
+    	<center>
+    		<h1>Daisy Sanchez</h1>
+
+    		<p>
+    			Majoring in Computer Science <br/>
+    	    	From Denver, CO <br/>
+        	</p>
+    	
+    		<p>
+    			Daisy.Sanchez@tuft.edu <br/>
+    			Phone Number: 720-400-4140 <br/>
+    			IP Address: 130.64.25.58 <br/>
+    		</p>
+
+    		<p>
+    			Something no one would know: <br /> 
+    			I spend more time listening to older music than newer song hits. Not to be fancy or anything, purely out of enjoyment. 
+    		</p>
+
+    		<img src="daisy.jpg" alt="Image of a Daisy flower.">
+        </center>
+
+
+    </body>
+</html>
